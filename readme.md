@@ -1,0 +1,1 @@
+ai based interview project used making of mongodb , react js, node js, express js, and other technologies. This project is designed to help users prepare for interviews by providing a platform to practice coding questions and receive feedback. The project includes features such as user authentication, question management.
